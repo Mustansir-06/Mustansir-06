@@ -181,16 +181,6 @@ AI-powered waste classification platform, backed by a published research paper a
 
 <div align="center">
 
-### 🏅 GitHub Trophies
-
-<img src="./profile/trophy.svg" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 💬 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
