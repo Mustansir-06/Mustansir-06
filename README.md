@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=180&section=header&text=Mustansir%20Dabhiya&fontSize=36&fontColor=c0caf5&animation=fadeIn&fontAlignY=45&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=15&descColor=7aa2f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=180&section=header&text=Mustansir%20Dabhiya&fontSize=36&fontColor=c0caf5&fontAlignY=45&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineering+Student;Full+Stack+Web+Developer;Building+AI-Powered+Web+Applications;Exploring+NLP+%26+Deep+Learning" alt="Typing SVG" />
@@ -93,7 +93,7 @@ AI writing assistant suite offering multiple AI-powered tools for different writ
 
 <div align="center" width="50%">
 
-<img src="https://placehold.co/600x300/1a1b27/7aa2f7?text=EcoSort+Screenshot" width="50%" />
+<img src="./screenshots/ecosort.png" width="50%" />
 
 **EcoSort**
 AI-powered waste classification platform, backed by a published research paper and a registered software copyright.
